@@ -3,3 +3,25 @@ body {background-color: blanchedalmond;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     
 }
+
+#tupperware {
+    width: 1000px;
+    margin: auto;
+  
+}
+
+.aside {
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+
+}
+
+.description {
+    width: auto;
+}
+
+.steps {
+    width: 500px;
+}
