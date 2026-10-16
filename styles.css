@@ -15,7 +15,7 @@ body {background-color: blanchedalmond;
     width: 150px;
     height: 150px;
     margin-left: 150px;
-
+    font-size: 14px;
 }
 
 .optional {
@@ -23,10 +23,25 @@ body {background-color: blanchedalmond;
     width: 150px;
     height: 150px;
     margin-left: 150px;
+    font-size: 14px;
 
 }
+
+.dropcap {
+    float: left;
+    font-size: 75px;
+    line-height: 1;
+    font-weight: bold;
+    margin:auto; 
+    margin-bottom: 100px;
+    font-family: cursive;
+}
+
+
 
 .description {
     width: auto;
 }
+
+
 
