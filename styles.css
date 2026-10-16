@@ -37,7 +37,9 @@ body {background-color: blanchedalmond;
     font-family: cursive;
 }
 
-
+img {
+    border-radius: 50%
+}
 
 .description {
     width: auto;
